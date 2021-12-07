@@ -1,3 +1,8 @@
+
+.App {
+  background-color: green !important;
+}
+
 .machine-container {
   display: flex;
   flex-direction: column;
